@@ -1,0 +1,1 @@
+This was a collaborative project done in my Software engineering class with my team mates. We build an android app to simulate tuning a guitar using a database of musical notes and an accessible user interface with visual and audio feedback during tuning.
